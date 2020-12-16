@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3952d8d8-d742-46d9-b4ee-e6461f63d042" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="3952d8d8-d742-46d9-b4ee-e6461f63d042" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +31,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608156899948</updated>
-      <workItem from="1608156901167" duration="1820000" />
+      <workItem from="1608156901167" duration="2641000" />
     </task>
     <task id="LOCAL-00001" summary="Few changes to heading etc. for testing deployment.">
       <created>1608157198967</created>
@@ -50,7 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608157893790</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Footer changes">
+      <created>1608159467703</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608159467703</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +75,7 @@
     <MESSAGE value="Few changes to heading etc. for testing deployment." />
     <MESSAGE value="Red Yeti Icon instead of fa-gem" />
     <MESSAGE value="Reverte" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reverte" />
+    <MESSAGE value="Footer changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Footer changes" />
   </component>
 </project>
